@@ -1,0 +1,25 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Temporary Code Runner files
+tempCodeRunnerFile.*
+
+# VS Code settings
+.vscode/
+
+# Build folders
+build/
+cmake-build-*/
+
+# Debug files
+*.pdb
+*.ilk
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
